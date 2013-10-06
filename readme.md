@@ -4,3 +4,4 @@
 * Added feature to resolve #1
 * Added to resolve #4
 * Added to resolve #5
+* try_git Conflict #6
